@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Leo
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to learn JavaScript, HTML and CSS
-- 📫 Message me from here to reach out, I strongly appreciate any tips for helping me out
-
+- 👀 I’m interested in marketing data analysis
+- 🌱 I’m currently using SQL, Python and PowerBI for my analysis
+- 💞️ I’m looking to learn AWS
+- 📫 Message me from here to reach out, I strongly appreciate any feedback to improve my code
